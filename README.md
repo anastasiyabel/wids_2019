@@ -1,3 +1,5 @@
+## Setup for the Competition by Following the Instructions on `Instruction_sheet.pdf`
+
 ## Starter Code for Classification Task:
 https://colab.research.google.com/drive/1PwOsb4OrCOvidHnbs6X5jWZPLjCEFKyY#scrollTo=wK4to0IvSjXZ
 
